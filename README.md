@@ -3,7 +3,7 @@ Dashboard built in Python and the Streamlit library to visualize Excel data abou
 
 Link to Dataset: https://www.kaggle.com/datasets/thedevastator/global-video-game-sales
 
-## Run the app
+## Run the App
 ```Powershell
 # terminal
 streamlit run app.py
